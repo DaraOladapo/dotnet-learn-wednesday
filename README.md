@@ -2,6 +2,9 @@
 
 Source Repo for Learn Wednesday Files, Resources and Source Codes
 
+Series Intro can be found [here](https://www.youtube.com/watch?v=cW20hprK4Uo).
+
+Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLLPoUzIf1nXql5pspUGGndeHUCZcvv48U)
 ## Plan
 
 #| Title | Link
