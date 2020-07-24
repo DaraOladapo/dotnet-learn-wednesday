@@ -6,9 +6,9 @@ namespace _16_Interfaces
     {
         static void Main(string[] args)
         {
-           Pig myPig=new Pig();
-           myPig.Breath();
-           myPig.MakeSound();
+            Pig myPig = new Pig();
+            myPig.Breath();
+            myPig.MakeSound();
         }
     }
 }
